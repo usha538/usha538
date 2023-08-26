@@ -1,5 +1,4 @@
 - 👋 Hi, I’m usha rani
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Data analytics
 
 <!---
